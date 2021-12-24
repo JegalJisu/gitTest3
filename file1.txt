@@ -2,4 +2,8 @@ hello git
 second
 third - my branch
 foruth - my branch
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 추가 
+>>>>>>> 3a1985b (1. 새로운 기능 1 추가)
